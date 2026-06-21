@@ -1,4 +1,4 @@
-# Article;
+# Article:
 https://www.usgs.gov/faqs/how-accurate-are-elevations-generated-elevation-point-query-service-national-map
 
 # Search:
